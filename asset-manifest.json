@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/zentravel/static/css/main.1ae1ecbd.css",
-    "main.js": "/zentravel/static/js/main.24f48f97.js",
+    "main.css": "/zentravel/static/css/main.c4887743.css",
+    "main.js": "/zentravel/static/js/main.1c21c6a8.js",
     "index.html": "/zentravel/index.html",
-    "main.1ae1ecbd.css.map": "/zentravel/static/css/main.1ae1ecbd.css.map",
-    "main.24f48f97.js.map": "/zentravel/static/js/main.24f48f97.js.map"
+    "main.c4887743.css.map": "/zentravel/static/css/main.c4887743.css.map",
+    "main.1c21c6a8.js.map": "/zentravel/static/js/main.1c21c6a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ae1ecbd.css",
-    "static/js/main.24f48f97.js"
+    "static/css/main.c4887743.css",
+    "static/js/main.1c21c6a8.js"
   ]
 }
